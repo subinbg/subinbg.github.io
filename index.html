@@ -409,7 +409,7 @@
 
 <h3 id="peter-weyl-theorem">Peter-Weyl theorem</h3>
 
-<p>Let $G$ be a compact Lie group. Then, every irreducible representation $\rho$ of $G$ is necessarily finite-dimensional. Furthermore, such $\rho$ is unitary (or, equivalent to unitary) and every representation of $G$ is reducible, splitting into $\rho$&rsquo;s. The matrix elements of all $\rho$&rsquo;s form an orthogonal complete set of $\mathcal{L}^2 (G)$.</p>
+<p><strong><em>Statement</em></strong>: Let $G$ be a compact Lie group. Then, every irreducible representation $\rho$ of $G$ is necessarily finite-dimensional. Furthermore, such $\rho$ is unitary (or, equivalent to unitary) and every representation of $G$ is reducible, splitting into $\rho$&rsquo;s. The matrix elements of all $\rho$&rsquo;s form an orthogonal complete set of $\mathcal{L}^2 (G)$.</p>
 
 <p>Note that $G$ is a compact group, which is a generalization of a finite group. Thus, there would be another version of Peter-Weyl theorem for finite groups. It is called <a href="https://en.wikipedia.org/wiki/Schur_orthogonality_relations" target="_blank">Schur orthogonality relations</a>, or great orthogonality theorem.</p>
 
@@ -419,17 +419,23 @@
 
 <h3 id="riesz-representation-theorem">Riesz representation theorem</h3>
 
-<p>Let $\mathcal{H}$ be a Hilbert space and $\tilde{\mathcal{H}}$ be its (continuous) dual space. Then $\mathcal{H}$ and $\tilde{\mathcal{H}}$ are isometrically (anti-)isomorphic. Specifically, for every $\Psi\in \tilde{\mathcal{H}}$, we can uniquely find $\psi\in \mathcal{H}$ such that
+<p><strong><em>Statement</em></strong>: Let $\mathcal{H}$ be a Hilbert space and $\tilde{\mathcal{H}}$ be its (continuous) dual space. Then $\mathcal{H}$ and $\tilde{\mathcal{H}}$ are isometrically (anti-)isomorphic. Specifically, for every $\Psi\in \tilde{\mathcal{H}}$, we can uniquely find $\psi\in \mathcal{H}$ such that
 $$\Psi(\phi)=\left&lt;\phi, \psi \right&gt;$$
 for any $\phi\in \mathcal{H}$.</p>
 
-<p>(Writing&hellip;)</p>
+<p>The most important role of Riesz representation theorem is that it justifies Driac&rsquo;s bra-ket notation. In Schrodinger&rsquo;s view on quantum mechanics, a physical state is represented by a specific wavefunction, which we often regard as a vector in Hilbert space. A vector is an abstraction of a wave-<em>function</em>, since it does not have a specific value. Instead, In Dirac&rsquo;s view, it is a linear functional on the Hilbert space that maps a vector to a specific value.</p>
+
+<p>Here, Riesz representation theorem tells us that we can always find a vector such that the mapping property of a linear functional is totally identical to the inner product with the vector. The inner product between two vectors means an probablity amplitude (how likely a state 1 happens in a state 2) or interference/transition between two states. Hence, a linear functional that maps a vector to a number - expectation value, scattering amplitude, etc. - is, in fact, interference with another vector!</p>
+
+<p>This is why we treat a wavefunction as an inner product between a position eigenstate (actually, a position eigenstate does not belong to Hilbert space, but I will not explain further about that problem) and a state vector. In other words, a linear functional that maps a state vector to a wavefunction which is also a complex value measures how likely a position eigenstate happens in the state, which is physically plausible.</p>
 
 <h3 id="spectral-theorem">Spectral theorem</h3>
 
-<p>Let $\mathcal{H}$ be an infinite-dimensional Hilbert space. Then, any multiplication operator is a (densely-defined) self-adjoint operator on $\mathcal{H}$. Any self-adjoint operator on $\mathcal{H}$ is unitarily equivalent to a multiplication operator.</p>
+<p><strong><em>Statement</em></strong>: Let $\mathcal{H}$ be an infinite-dimensional Hilbert space. Then, any multiplication operator is a (densely-defined) self-adjoint operator on $\mathcal{H}$. Any self-adjoint operator on $\mathcal{H}$ is unitarily equivalent to a multiplication operator.</p>
 
-<p>(Writing&hellip;)</p>
+<p>In quantum mechanics, it is postulated that every physical quantity has a corresponding linear, self-adjoint operator. The self-adjointness guarantees that the operator has only real eigenvalues; otherwise, we may get a complex physical quantity from a state (can you explain what a complex momentum is?). Since the unitary operators mean transition from one orthonormal basis to another, the spectral theorem says that the self-adjoint operators (physical quantities) become simple multiplication operators in a certain basis.</p>
+
+<p>Since a multiplication opetator can be considered as a multiplication by an eigenvalue, the theorem implies the diagonalizability of the self-adjoint operator in the orthonormal basis that consists of eigenvectors of that operator. For instance, any $\mathcal{L}^2$ function can be expanded as a combination of momentum eigenstates in the Fourier domain where the Fourier transition is the unitary operator that transforms the position eigenbasis to the momentum eigenbasis (strictly speaking, the Fourier transform is not an unitary operator on the $\mathcal{L}^2$ space and the position and momentum eigenbases do not belong to the space; but you can ignore that fact for now). Due to such diagonalizability, if we are interested in a certain physical quantity of a system, we can treat the system as a linear combination of eigenbasis vectors and calculate the linear coefficients (probability amplitudes) in such expansion.</p>
 
     </div>
   
