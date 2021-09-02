@@ -11,7 +11,8 @@ My research interests include computational imaging, mathematical optimization a
 <div id="webaddress">
   <a href="https://subinbg.github.io"><i class="fas fa-home"></i> subinbg.github.io</a> | 
   <a href="https://github.com/subinbg"><i class="fab fa-github"></i> subinbg (github repository)</a><br/>
-  <a href="http://optics.mit.edu"><i class="fas fa-users"></i> optics.mit.edu (research group)</a>
+  <a href="http://optics.mit.edu"><i class="fas fa-users"></i> optics.mit.edu (research group)</a> |
+  <a href="https://www.overleaf.com/read/zqcxjwjwccsm"><i class="fas fa-users"></i> personal note on physics</a>
 </div> 
 
 
@@ -33,7 +34,7 @@ My research interests include computational imaging, mathematical optimization a
 Sangmoon Yoon, Sangmin Lee, **Subeen Pang**, Miyoung Kim, and Young-Kyun Kwon,  Role of anisotropic coulomb interactions in the superex-change coupling of mixed-valent Mn3O4, Physical Review B, 104(3):035158, 2021.
 
 `2021`
-Iksung Kang, **Subeen Pang**, Qihang Zhang, Nicholas Fang, and GeorgeBarbastathis, Recurrent neural network reveals transparent objects throughscattering media, Optics Express, 29(4):5316–5326, 2021.
+Iksung Kang, **Subeen Pang**, Qihang Zhang, Nicholas Fang, and George Barbastathis, Recurrent neural network reveals transparent objects through scattering media, Optics Express, 29(4):5316–5326, 2021.
 
 `2020`
 **Subeen Pang** and George Barbastathis, Machine learning regularized solution of the lippmann-schwinger equation, arXiv preprint, arXiv:2010.15117, 2020.
@@ -42,7 +43,7 @@ Iksung Kang, **Subeen Pang**, Qihang Zhang, Nicholas Fang, and GeorgeBarbastathi
 Myoung-Jae Lee, Gyeong-Su Park, David H Seo, Sung Min Kwon, Hyeon-Jun Lee, June-Seo Kim, MinKyung Jung, Chun-Yeol You, Hyangsook Lee, Hee-Goo Kim, **Su-Been Pang**, Sunae Seo, Hyunsang Hwang, and Sung Kyu Park et al.,  Reliable multivalued conductance states in TaOx memristors through oxygen plasma-assisted electrode deposition with insitu-biased conductance state transmission electron microscopy analysis, ACS applied materials & interfaces, 10(35):29757–29765, 2018.
 
 `2017`
-**Subeen Pang**, Review on electronic correlations and the metal-insulatortransition in SrRuO3, Applied Microscopy, 47(3):187–202, 2017.
+**Subeen Pang**, Review on electronic correlations and the metal-insulator transition in SrRuO3, Applied Microscopy, 47(3):187–202, 2017.
 
 
 ## Awards
