@@ -1,14 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Subeen Pang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Subeen Pang
+Graduate student, Massachusetts Institute of Technology
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://subinbg.github.io"><i class="fas fa-home"></i> subinbg.github.io</a> - 
+  <a href="http://optics.mit.edu"><i class="fas fa-users"></i> optics.mit.edu (group)</a><br/>
+  <a href="https://github.com/subinbg"><i class="fab fa-github"></i> subinbg</a>
 </div>
+
+Institute of Seismology, Department of Geosciences and Geography<br/>
+P.O. Box 68 (Pietari Kalmin katu 5)<br/>
+FI-00014 University of Helsinki, Finland<br/>
 
 
 ## Currently
