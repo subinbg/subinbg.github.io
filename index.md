@@ -5,32 +5,29 @@ title: Subeen Pang's CV
 # Subeen Pang
 Graduate student, Massachusetts Institute of Technology
 
+I am a graduate student of mechanical engineering at Massachusetts Institute of Technology (MIT).<br/>
+My research interests include computational imaging, mathematical optimization and machine learning for optics.<br/>
+
 <div id="webaddress">
   <a href="https://subinbg.github.io"><i class="fas fa-home"></i> subinbg.github.io</a> | 
   <a href="https://github.com/subinbg"><i class="fab fa-github"></i> subinbg (github repository)</a><br/>
   <a href="http://optics.mit.edu"><i class="fas fa-users"></i> optics.mit.edu (research group)</a>
-</div>
-
-
-I am a graduate student of mechanical engineering at Massachusetts Institute of Technology (MIT).<br/>
-My research interests include computational imaging, mathematical optimization and machine learning for optics.
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+</div> 
 
 
 ## Education
+
+`2021-present`
+**Ph.D. candidate, Mechanical Engineering**, *Massachusetts Institute of Technology*, Cambridge, MA, USA.
+
+`2018-2021`
+**M.S., Mechanical Engineering**, *Massachusetts Institute of Technology*, Cambridge, MA, USA.
+
+`2011-2018`
+**B.Sc., Materials Science and Engineering**, *Seoul National University*, Seoul, Republic of Korea.
+
+
+## Publications
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -46,7 +43,6 @@ __Trinity College, Cambridge__
 - Fellow
 
 
-
 ## Awards
 
 `2012`
@@ -56,9 +52,16 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
+
+
+
+
+
+
+<!--
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+ A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) 
 
 ### Journals
 
@@ -85,7 +88,7 @@ __Royal Mint__, London
 - Minted coins
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Lucasian professor of Mathematics__, Cambridge University -->
 
 
 
