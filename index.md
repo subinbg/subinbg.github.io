@@ -29,18 +29,20 @@ My research interests include computational imaging, mathematical optimization a
 
 ## Publications
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021`
+Sangmoon Yoon, Sangmin Lee, **Subeen Pang**, Miyoung Kim, and Young-Kyun Kwon,  Role of anisotropic coulomb interactions in the superex-change coupling of mixed-valent Mn3O4, Physical Review B, 104(3):035158, 2021.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2021`
+Iksung Kang, **Subeen Pang**, Qihang Zhang, Nicholas Fang, and GeorgeBarbastathis, Recurrent neural network reveals transparent objects throughscattering media, Optics Express, 29(4):5316–5326, 2021.
 
-- Sizar
+`2020`
+**Subeen Pang** and George Barbastathis, Machine learning regularized solu-tion of the lippmann-schwinger equation, arXiv preprint, arXiv:2010.15117, 2020.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2018`
+Myoung-Jae Lee, Gyeong-Su Park, David H Seo, Sung Min Kwon, Hyeon-Jun Lee, June-Seo Kim, MinKyung Jung, Chun-Yeol You, Hyangsook Lee, Hee-Goo Kim, et al.,  Reliable multivalued conductance states in TaOx memristors through oxygen plasma-assisted electrode deposition with insitu-biased conductance state transmission electron microscopy analysis, ACS applied materials & interfaces, 10(35):29757–29765, 2018.
 
-- Fellow
+`2017`
+**Subeen Pang**, Review on electronic correlations and the metal-insulatortransition in SrRuO3, Applied Microscopy, 47(3):187–202, 2017.
 
 
 ## Awards
