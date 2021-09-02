@@ -45,13 +45,17 @@ __Trinity College, Cambridge__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2021`
+**1st Place in Localization of Maximum Vertical Pocket in Prenatal Ultrasound**, *A-AFMA Ultrasound Challenge, Oxford Institute of Biomedical Engineering*, Oxford, UK
 
-Associate, *French Academy of Science*, Paris, France
+`2018-2020`
+**Kwanjeong Lee Chonghwan Scholarship**, *Kwanjeong Lee Chonghwan Educational Foundation*, , Republic of Korea.
 
+`2016`
+**Grand Prize in Computational Chemistry**, *EDucation-research Integration through Simulation On the Net (EDISON) Challenge, Ministry of Science, ICT and Future Planning of Korea*, Republic of Korea.
 
-
+`2013 and 2016` 
+**National Scholarship for Science and Engineering**, *Korea Student Aid Foundation*, Republic of Korea.
 
 
 
