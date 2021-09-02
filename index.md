@@ -6,14 +6,14 @@ title: Subeen Pang's CV
 Graduate student, Massachusetts Institute of Technology
 
 <div id="webaddress">
-  <a href="https://subinbg.github.io"><i class="fas fa-home"></i> subinbg.github.io</a> - 
-  <a href="http://optics.mit.edu"><i class="fas fa-users"></i> optics.mit.edu (group)</a><br/>
-  <a href="https://github.com/subinbg"><i class="fab fa-github"></i> subinbg</a>
+  <a href="https://subinbg.github.io"><i class="fas fa-home"></i> subinbg.github.io</a> | 
+  <a href="https://github.com/subinbg"><i class="fab fa-github"></i> subinbg (github repository)</a><br/>
+  <a href="http://optics.mit.edu"><i class="fas fa-users"></i> optics.mit.edu (research group)</a>
 </div>
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+
+I am a graduate student of mechanical engineering at Massachusetts Institute of Technology (MIT).<br/>
+My research interests include computational imaging, mathematical optimization and machine learning for optics.
 
 
 ## Currently
