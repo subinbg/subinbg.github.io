@@ -37,7 +37,7 @@ Sangmoon Yoon, Sangmin Lee, **Subeen Pang**, Miyoung Kim, and Young-Kyun Kwon,  
 Iksung Kang, **Subeen Pang**, Qihang Zhang, Nicholas Fang, and George Barbastathis, Recurrent neural network reveals transparent objects through scattering media, Optics Express, 29(4):5316–5326, 2021.
 
 `2020`
-**Subeen Pang** and George Barbastathis, Machine learning regularized solution of the lippmann-schwinger equation, arXiv preprint, arXiv:2010.15117, 2020.
+**Subeen Pang** and George Barbastathis, Machine learning regularized solution of the Lippmann-Schwinger equation, arXiv preprint, arXiv:2010.15117, 2020.
 
 `2018`
 Myoung-Jae Lee, Gyeong-Su Park, David H Seo, Sung Min Kwon, Hyeon-Jun Lee, June-Seo Kim, MinKyung Jung, Chun-Yeol You, Hyangsook Lee, Hee-Goo Kim, **Su-Been Pang**, Sunae Seo, Hyunsang Hwang, and Sung Kyu Park et al.,  Reliable multivalued conductance states in TaOx memristors through oxygen plasma-assisted electrode deposition with insitu-biased conductance state transmission electron microscopy analysis, ACS applied materials & interfaces, 10(35):29757–29765, 2018.
