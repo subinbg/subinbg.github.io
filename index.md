@@ -31,7 +31,7 @@ My research interests include computational imaging, mathematical optimization a
 ## Publications
 
 `2021`
-Sangmoon Yoon, Sangmin Lee, **Subeen Pang**, Miyoung Kim, and Young-Kyun Kwon,  Role of anisotropic coulomb interactions in the superex-change coupling of mixed-valent Mn3O4, Physical Review B, 104(3):035158, 2021.
+Sangmoon Yoon, Sangmin Lee, **Subeen Pang**, Miyoung Kim, and Young-Kyun Kwon,  Role of anisotropic coulomb interactions in the superexchange coupling of mixed-valent Mn3O4, Physical Review B, 104(3):035158, 2021.
 
 `2021`
 Iksung Kang, **Subeen Pang**, Qihang Zhang, Nicholas Fang, and George Barbastathis, Recurrent neural network reveals transparent objects through scattering media, Optics Express, 29(4):5316–5326, 2021.
