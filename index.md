@@ -51,11 +51,14 @@ Myoung-Jae Lee, Gyeong-Su Park, David H Seo, Sung Min Kwon, Hyeon-Jun Lee, June-
 
 ## Awards
 
+`2022`
+**First Place in Graduate Science**, *de Florez Award, Department of Mechanical Engineering, Massachusetts Institute of Technology*, USA
+
 `2021`
-**1st Place in Localization of Maximum Vertical Pocket in Prenatal Ultrasound**, *A-AFMA Ultrasound Challenge, Oxford Institute of Biomedical Engineering*, Oxford, UK
+**First Place in Localization of Maximum Vertical Pocket in Prenatal Ultrasound**, *A-AFMA Ultrasound Challenge, Oxford Institute of Biomedical Engineering*, Oxford, UK
 
 `2018-2020`
-**Kwanjeong Lee Chonghwan Scholarship**, *Kwanjeong Lee Chonghwan Educational Foundation*, , Republic of Korea.
+**Kwanjeong Lee Chonghwan Scholarship**, *Kwanjeong Lee Chonghwan Educational Foundation*, Republic of Korea.
 
 `2016`
 **Grand Prize in Computational Chemistry**, *EDucation-research Integration through Simulation On the Net (EDISON) Challenge, Ministry of Science, ICT and Future Planning of Korea*, Republic of Korea.
