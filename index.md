@@ -6,7 +6,7 @@ title: Subeen Pang's CV
 Graduate student, Massachusetts Institute of Technology
 
 I am a graduate student of mechanical engineering at Massachusetts Institute of Technology (MIT).<br/>
-My research interests include computational imaging, mathematical optimization and machine learning for optics.<br/>
+My research interests include scattering physics, mathematical optimization, and machine learning for optical applications.<br/>
 
 <div id="webaddress">
   <a href="https://subinbg.github.io"><i class="fas fa-home"></i> subinbg.github.io</a> | 
