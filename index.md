@@ -19,7 +19,7 @@ My research interests include scattering physics, mathematical optimization, and
 ## Education
 
 `2021-present`
-**Ph.D. candidate, Mechanical Engineering**, *Massachusetts Institute of Technology*, Cambridge, MA, USA.
+**Ph.D. candidate, Computational Engineering and Mechanical Engineering**, *Massachusetts Institute of Technology*, Cambridge, MA, USA.
 
 `2018-2021`
 **M.S., Mechanical Engineering**, *Massachusetts Institute of Technology*, Cambridge, MA, USA.
@@ -31,7 +31,7 @@ My research interests include scattering physics, mathematical optimization, and
 ## Publications
 
 `2022`
-**Subeen Pang** and George Barbastathis, Unified treatment of exact and approximate scalar electromagnetic wave scattering, arXiv preprint, arXiv:2202.08297, 2022.
+**Subeen Pang** and George Barbastathis, Unified treatment of exact and approximate scalar electromagnetic wave scattering, Physical Review E, 106(4):045301, 2022.
 
 `2021`
 Sangmoon Yoon, Sangmin Lee, **Subeen Pang**, Miyoung Kim, and Young-Kyun Kwon,  Role of anisotropic coulomb interactions in the superexchange coupling of mixed-valent Mn3O4, Physical Review B, 104(3):035158, 2021.
