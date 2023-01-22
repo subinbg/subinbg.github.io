@@ -66,7 +66,13 @@ Myoung-Jae Lee, Gyeong-Su Park, David H Seo, Sung Min Kwon, Hyeon-Jun Lee, June-
 **National Scholarship for Science and Engineering**, *Korea Student Aid Foundation*, Republic of Korea.
 
 
+## Teaching Experience
 
+`2023`
+**Teaching Assistant**, Physical Systems Modeling and Design Using Machine Learning, MIT Course 2.C01/2.C51.
+
+`2021`
+**Teaching Assistant**, Physical Systems Modeling and Design Using Machine Learning, MIT Course 2.161/2.169.
 
 
 
