@@ -27,7 +27,7 @@ and machine learning for optical applications.
 | Language   | Level     | Description / Previous Experience  |
 | --------  | -------- | ------ |
 | Python | ■■■■■ | Graduate study in ML, head AI engineer in startup |
-| Julia | ■■■■■ | High-performance numerical simulation, optimized CUDA kernel |
+| Julia | ■■■■■ | High-performance numerical simulation, CUDA kernel optimization |
 | Rust | ■■■ | Embedded vector database, word tokenization |
 | Solidity | ■ | ETH/POL smart contracts deploying ERC20 token |
 | Fortran | ■ | Simple quantum Monte-Carlo simulation |
