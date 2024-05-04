@@ -11,5 +11,10 @@ rm $ZOLA_FILE
 mkdir --parents ./.bin; mv zola $_
 export PATH=$PATH:$PWD/.bin
 
+
+# To undo this (removing this from git history),
+# rm -rf .git/modules/themes/serene
+# git config --remove-section submodule.themes/serene
+# Reference: https://stackoverflow.com/a/1260982
 mkdir themes
 git submodule add -b latest https://github.com/isunjn/serene.git themes/serene
