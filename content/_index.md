@@ -10,7 +10,7 @@ mermaid = true
 # About me
 
 As an AI engineer, my current focus lies in the realm of context-aware search engines and neural representations of texts.
-I also pride myself on being an applied mathematician.
+I also take pride in identifying myself as an applied mathematician.
 Prior to embarking on my journey as an AI engineer, I obtained my PhD in Computational Science and Engineering, as well as Mechanical Engineering, from Massachusetts Institute of Technology (MIT).
 My research interests spanned across mathematical representations of optical scattering and physics-assisted neural networks.
 
